@@ -10,6 +10,8 @@ For this competition I used a CNN algorithm, which is considered one of the best
 
 Top 25% 
 
+Position 583 out of 2300
+
 Model accuracy: 99.25%
 
 Score: 0.99257 
